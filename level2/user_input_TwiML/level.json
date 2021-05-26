@@ -1,8 +1,8 @@
 {
   "title": "User Input TwiML",
   "description": "This allows you to get familiar with Twilio's user input functions",
-  "events": "vr_mission_template/events.js",
-  "default_map": "vr_mission_template/default.json",
+  "events": "user_input_TwiML/events.js",
+  "default_map": "user_input_TwiML/default.json",
   "mission_icon": "mission_icon.png",
   "is_mission": true,
   "priority": 1,
